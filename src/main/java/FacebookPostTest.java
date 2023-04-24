@@ -43,7 +43,6 @@ public class FacebookPostTest {
         // Set max size to screen to make sure either "Create" or "Skapa" is there instead of "Menu".
         Dimension dimension = new Dimension(1024, 900);
         driver.manage().window().setSize(dimension);
-
     }
     @Test
     public void testPostSomething() throws InterruptedException {

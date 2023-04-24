@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9447a46d-ae86-4378-97ad-642386d2860a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FacebookLoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FacebookPostTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FacebookSearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FacebookLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FacebookLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FacebookPostTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FacebookPostTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,10 +40,11 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.FacebookPostTest">
+  <component name="RunManager" selected="TestNG.FacebookLoginTest">
     <configuration name="FacebookLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTest" />
       <option name="PACKAGE_NAME" value="" />
@@ -86,9 +80,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.FacebookLoginTest" />
         <item itemvalue="TestNG.FacebookPostTest" />
         <item itemvalue="TestNG.FacebookSearchTest" />
-        <item itemvalue="TestNG.FacebookLoginTest" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682320596063</updated>
-      <workItem from="1682320597045" duration="424000" />
+      <workItem from="1682320597045" duration="2602000" />
     </task>
     <servers />
   </component>

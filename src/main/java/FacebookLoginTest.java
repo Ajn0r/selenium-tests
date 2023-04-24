@@ -130,7 +130,7 @@ public class FacebookLoginTest {
 
         // Click on the account dropdown
         try {
-            WebElement profilePic = driver.findElement(By.xpath("//*[@aria-label='Your profile']"));
+            WebElement profilePic = driver.findElement(By.xpath("//*[@aria-label='Your profile' or @aria-label='Din profil']"));
             profilePic.click();
         } catch (Exception e) {
             logger.error("An error occurred while clicking the account dropdown", e);
